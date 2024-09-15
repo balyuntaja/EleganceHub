@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881049493033",
+    "project_id": "elegancehub-14da6",
+    "storage_bucket": "elegancehub-14da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881049493033:android:3a5cfaafe5c71124a20638",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2IVvwN2IWIBTRU5-WO00Y-7btUjb1Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
